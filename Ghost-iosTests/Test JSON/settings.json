@@ -1,0 +1,42 @@
+{
+    "settings": {
+        "title": "Ghost",
+        "description": "The professional publishing platform",
+        "logo": "https://demo.ghost.io/content/images/2014/09/Ghost-Transparent-for-DARK-BG.png",
+        "icon": "https://demo.ghost.io/content/images/2017/07/favicon.png",
+        "cover_image": "https://demo.ghost.io/content/images/2017/07/blog-cover.jpg",
+        "facebook": "ghost",
+        "twitter": "@tryghost",
+        "lang": "en",
+        "timezone": "Etc/UTC",
+        "navigation": [
+            {
+                "label": "Home",
+                "url": "/"
+            },
+            {
+                "label": "About",
+                "url": "/about/"
+            },
+            {
+                "label": "Getting Started",
+                "url": "/tag/getting-started/"
+            },
+            {
+                "label": "Try Ghost",
+                "url": "https://ghost.org"
+            }
+        ],
+        "meta_title": null,
+        "meta_description": null,
+        "og_image": null,
+        "og_title": null,
+        "og_description": null,
+        "twitter_image": null,
+        "twitter_title": null,
+        "twitter_description": null,
+        "url": "https://demo.ghost.io/",
+        "codeinjection_head": null,
+        "codeinjection_foot": null
+    }
+}

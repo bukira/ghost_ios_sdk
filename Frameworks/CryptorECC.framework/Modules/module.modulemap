@@ -1,0 +1,11 @@
+framework module CryptorECC {
+  umbrella header "BlueECC-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CryptorECC.Swift {
+    header "CryptorECC-Swift.h"
+    requires objc
+}

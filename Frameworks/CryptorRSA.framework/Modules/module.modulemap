@@ -1,0 +1,11 @@
+framework module CryptorRSA {
+  umbrella header "BlueRSA-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CryptorRSA.Swift {
+    header "CryptorRSA-Swift.h"
+    requires objc
+}
